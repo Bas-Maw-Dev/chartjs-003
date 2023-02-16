@@ -1,0 +1,1 @@
+import Likert from 'react-likert-scale';
